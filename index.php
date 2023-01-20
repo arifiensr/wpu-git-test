@@ -9,5 +9,8 @@
 <body>
     <h1>Hello World!</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam libero neque voluptatibus perspiciatis cumque qui, deserunt nulla repellat cupiditate inventore accusamus esse officia iste perferendis, eligendi, quisquam veniam unde tenetur?</p>
+    <ul>
+        <li>Mahasiswa malas</li>
+    </ul>
 </body>
 </html>
